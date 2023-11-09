@@ -1,5 +1,5 @@
 # Ex-01-PCA-GPU-based-vector-summation.-Explore-the-differences.
-## Date:
+### Date:
 ## Aim:
 To modify or set the execution configuration of block.x as 1023 & 1024 and compare the elapsed time obtained on Host and GPU.To set the number of threads as 256 and obtain the elapsed time on Host and GPU.
 ## Procedure:
